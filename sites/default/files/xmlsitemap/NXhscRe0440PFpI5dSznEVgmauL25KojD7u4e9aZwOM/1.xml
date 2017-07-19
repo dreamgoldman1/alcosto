@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="//alcosto.local/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://alcosto.local/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://alcosto.local/secciones/inicio</loc></url>
+<url><loc>http://alcosto.local/secciones/ofertas</loc></url>
+<url><loc>http://alcosto.local/secciones/categor%C3%ADas</loc></url>
+<url><loc>http://alcosto.local/secciones/productos-recomendados</loc></url>
+<url><loc>http://alcosto.local/secciones/belleza</loc></url>
+<url><loc>http://alcosto.local/secciones/droguer%C3%ADa</loc></url>
+</urlset>
